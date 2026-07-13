@@ -1,0 +1,6 @@
+{
+  "name": "Spatial Note",
+  "description": "A highly sophisticated offline notepad featuring custom canvas layouts with floating copy boxes, rich text editor, and offline picture items minimizable to interactive dots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
